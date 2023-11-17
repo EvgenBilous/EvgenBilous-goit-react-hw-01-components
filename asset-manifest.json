@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EvgenBilous-goit-react-hw-01-components/static/css/main.d36015eb.css",
+    "main.js": "/EvgenBilous-goit-react-hw-01-components/static/js/main.55bcc6bb.js",
+    "index.html": "/EvgenBilous-goit-react-hw-01-components/index.html",
+    "main.d36015eb.css.map": "/EvgenBilous-goit-react-hw-01-components/static/css/main.d36015eb.css.map",
+    "main.55bcc6bb.js.map": "/EvgenBilous-goit-react-hw-01-components/static/js/main.55bcc6bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d36015eb.css",
+    "static/js/main.55bcc6bb.js"
+  ]
+}
