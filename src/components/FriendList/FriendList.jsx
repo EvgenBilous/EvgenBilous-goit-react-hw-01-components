@@ -1,5 +1,5 @@
 import React from 'react';
-import FriendListItem from './FriendListItem';
+import FriendListItem from './FriendlistItem/FriendListItem';
 function FriendList({ friends }) {
   return (
     <ul className="friend-list">
